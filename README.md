@@ -16,7 +16,6 @@
 
 ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
 [![Stats](https://github-readme-stats.vercel.app/api?username=Siya-Botz&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/Siya-Botz/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Siya-Botz&theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siya-Botz&layout=compact&theme=tokyonight" align="center">
 
 
