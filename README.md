@@ -1,2 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=35&pause=1000&color=95F700&center=true&vCenter=true&width=435&lines=Siya+Botz+" alt="Typing SVG" /></a>
+
+/n
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Rom%C3%A2nia&pause=1000&width=435&lines=My+name+is+siya%2C;+i+love+making+bot%2C;Totorial+and+Bot+Devloper+%E2%9C%A8" alt="Typing SVG" /></a>
